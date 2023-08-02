@@ -1,0 +1,40 @@
+/* Banner.css */
+
+.banner {
+    background-color: black;
+    color: #fff;
+    padding-top: 20px;    
+    padding-right: 40px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  /* Reorder the elements inside the banner */
+  .auth-options {
+    display: flex;
+    align-items: center;
+  }
+  
+  .auth-options a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+  }
+  
+  .profile-pic {
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+  }
+  
+  .profile-pic img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
