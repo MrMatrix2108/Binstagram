@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Binstagram
 Binstagram React WebApp repo
 =======
+=======
+>>>>>>> 42c11babd34d33ce6486df4f4629676aa040207b
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -127,4 +130,8 @@ To add them to your React app change the following code in your app's `package.j
 ## Step 6: Test
 
 Everything should be ready to go, save and restart your app. You should have a secure connection with a lock icon in the browser. 
+<<<<<<< HEAD
 >>>>>>> master
+=======
+
+>>>>>>> 42c11babd34d33ce6486df4f4629676aa040207b
