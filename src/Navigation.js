@@ -21,6 +21,10 @@ const Navigation = () => {
           <a href="#friends">Friends</a>
         </li>
         <li>
+          <i className="fas fa-user"></i>
+          <a href="#friends">Account</a>
+        </li>
+        <li>
           <i className="fas fa-info-circle"></i>
           <a href="#about">About</a>
         </li>

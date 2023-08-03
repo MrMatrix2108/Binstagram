@@ -36,6 +36,14 @@ const Feed = () => {
         likes: 4,
         comments: 3,
       },
+      {
+        id: 5,
+        username: "jishen_harilal",
+        pImg: 'https://g1.img-dpreview.com/FF9CE2684532407EA326F7E9562EB91A.jpg',
+        imageSrc: 'https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&w=1600',
+        likes: 4,
+        comments: 3,
+      },
   ];
 
   return (
