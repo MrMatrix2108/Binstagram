@@ -12,7 +12,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "set HTTPS=true&&set SSL_CRT_FILE=.env\\localhost.pem&&set SSL_KEY_FILE=.env\\localhost-key.pem&&react-scripts start",
+    "start": "set HTTPS=true&&set SSL_CRT_FILE=src\\.env\\localhost.pem&&set SSL_KEY_FILE=src\\.env\\localhost-key.pem&&react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
