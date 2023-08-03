@@ -1,0 +1,21 @@
+
+@font-face {
+  font-family: 'Insta';
+  src: url('Fonts/instafont.otf') format('opentype');
+}
+
+body {
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
+  font-family: 'Noto Sans', sans-serif;
+  color: white;
+}
+
+.app {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
