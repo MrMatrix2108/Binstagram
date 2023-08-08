@@ -49,7 +49,7 @@ const Feed = () => {
   return (
     <div className="feed">
       
-      {posts.reverse().map((post) => (  
+      {posts.map((post) => (  
         <Post
           key={post.id}
           username={post.username}
