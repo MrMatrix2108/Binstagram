@@ -39,6 +39,17 @@
     font-size: small;
     margin-bottom: 10px;
   }
+
+  .caption {
+    margin-left: 0px;
+    font-weight: lighter;
+    font-size: medium;
+    color: #CCC;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding-left: 5px;
+    border-left: 5px solid white;
+  }
   
   .post img {
     width: 100%;
